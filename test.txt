@@ -2,4 +2,4 @@ prima riga
 seconda riga
 terza riga
 quarta riga branch
-modifica conflittuale nel branch conflictBranch
+questa riga è diversa nel branch conflictBranch
