@@ -3,3 +3,4 @@ seconda riga
 terza riga
 quarta riga branch
 contenuto risolto manualmente
+sesta riga aggiunta nel branch GitHubBranch
