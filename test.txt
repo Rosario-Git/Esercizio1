@@ -2,5 +2,4 @@ prima riga
 seconda riga
 terza riga
 quarta riga branch
-modifica conflittuale nel branch conflictBranch
-questa riga verrà modificata su entrambi i branch
+contenuto risolto manualmente
