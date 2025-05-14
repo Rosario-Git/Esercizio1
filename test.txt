@@ -2,4 +2,4 @@ prima riga
 seconda riga
 terza riga
 quarta riga branch
-aggiunta nel branch recursiveBranch
+modifica conflittuale nel branch conflictBranch
